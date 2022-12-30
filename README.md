@@ -62,7 +62,7 @@ First version of EShop Projects
 
 5- Using Restful API
 
-6- Improve Design Pattern Of Project
+6- Improve Design Pattern Of Project (CQRS-MediatR-DDD)
 
 7- Increase Security
 
