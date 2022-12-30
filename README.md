@@ -24,6 +24,9 @@ First version of EShop Projects
 
 3- تکمیل / بهینه سازی / پیاده سازی بهتر.
 
+ 
+ * نکته : بخش فرانت اند در سورس حذف شده است زیرا از قالب آماده استفاده شده که اجازه انتشار سورسش رو ندارم :(
+
 -------------------------------------------------
 
 پروژه EShop_v1 دارای 6 بخش میباشد : 
@@ -43,3 +46,26 @@ First version of EShop Projects
 
 2- Database = SqlServer2022
 
+-------------------------------------------------
+
+موارد فنی که قراره در بخش بعدی بکار گرفته بشود : 
+
+1- Using Sql Server Features & DB First Approach
+
+2- ORM = Dapper & EFCore
+
+3- Implement Flow Control
+
+4- Implement Logger & Communication Features
+
+5- Using Restful API
+
+6- Improve Design Pattern Of Project
+
+7- Increase Security
+
+-------------------------------------------------
+
+جهت مشاهده لایو آخرین نسخه پروژه به سایت www.ManzelEShop.com سر بزنید.
+
+با تشکر.
