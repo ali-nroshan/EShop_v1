@@ -39,7 +39,7 @@ First version of EShop Projects
 
 3- لایه Application/Core شامل پروژه EShop.Core (.Net 7 Lib)
 
-4- لایه Domain شامل پروژه Domain (.Net 7 Lib)
+4- لایه Domain شامل پروژه EShop.Domain (.Net 7 Lib)
 
 
 تکنولوژی و ابزار های استفاده شده برای دیتابیس : 
