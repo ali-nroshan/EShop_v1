@@ -1,4 +1,4 @@
-# EShop_v1
+# EShop
 First version of EShop Projects
 
 به اولین بخش از سری پروژه های متن باز فروشگاه اینترنتی خوش آمدید !
@@ -56,26 +56,3 @@ First version of EShop Projects
 * Infrastructure Depends on Core
 * Core Depends on Domain
 * Domain is core of project and has no dependencies
-
--------------------------------------------------
-
-موارد فنی که قراره در بخش بعدی بکار گرفته بشود : 
-
-1- Using Sql Server Features & DB First Approach
-
-2- ORM = Dapper & EFCore
-
-3- Implement Flow Control
-
-4- Implement Logger & Communication Features
-
-5- Using Restful API
-
-6- Improve Design Pattern Of Project (CQRS-MediatR-DDD)
-
-7- Increase Security
-
--------------------------------------------------
-
-
-با تشکر.
